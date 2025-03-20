@@ -1,4 +1,4 @@
-# books-to-read
+# books
 [How the World Became Rich: The Historical Origins of Economic Growth](https://www.amazon.fr/gp/product/1509540237/)
 <br>
 [Riemann's Zeta Function](https://www.amazon.fr/gp/product/0486417409/)
